@@ -40,8 +40,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/giovanni-innaimi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Giovanni_Battista%20Innaimi%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:giovanni.innaimi@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-giovanni.innaimi@protonmail.com.edu-blue?style=flat-square&logo=protonmail"></a>
+<a href="https://www.linkedin.com/in/giovanni-innaimi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Giovanni_Battista%20Innaimi%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:giovanni.innaimi@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-giovanni.innaimi@protonmail.com-blue?style=flat-square&logo=protonmail"></a>
 </p>
 
 ⭐️ From [VocalicOyster](https://github.com/VocalicOyster)
