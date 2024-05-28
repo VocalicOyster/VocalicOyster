@@ -12,7 +12,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/JAVA-gray?logo=stackedit&logoColor=black)
 - 🌐 &nbsp;
   ![JAVA](https://img.shields.io/badge/any_text-gray?logo=stackedit&logoColor=black)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
