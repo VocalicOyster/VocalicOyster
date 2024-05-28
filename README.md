@@ -14,8 +14,8 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/JAVA-gray?logo=stackedit&logoColor=black)
 - 🌐 &nbsp;
-  ![Hibernate](https://img.shields.io/badge/JAVA-gray?logo=hibernate&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/springboot-gray?logo=springboot&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-gray?logo=hibernate&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-gray?logo=springboot&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -25,6 +25,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-gray?logo=intellijidea&logoColor=white)
   ![HeidiSql](https://img.shields.io/badge/HeidiSql-gray?logo=mysql&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-gray?logo=postman&logoColor=white)
+  ![Xampp](https://img.shields.io/badge/Xampp-gray?logo=xampp&logoColor=white)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
