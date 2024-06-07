@@ -14,7 +14,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/JAVA-gray?logo=stackedit&logoColor=black)
 - 🌐 &nbsp;
-  ![Hibernate](<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-gray?logo=hibernate&logoColor=white"/>)
+  ![Hibernate](<img src="https://img.shields.io/badge/Hibernate-gray?logo=hibernate&logoColor=white"/>)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-gray?logo=springboot&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
