@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-gray?logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
   </a>
   <a href="https://www.heidisql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HeidiSql-gray?logo=mysql&logoColor=white" alt="HeidiSql">
+    <img src="https://img.shields.io/badge/HeidiSql-gray?logo=heidisql&logoColor=white" alt="HeidiSQL">
   </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-gray?logo=postman&logoColor=white" alt="Postman">
