@@ -14,21 +14,43 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
   </a>
-  ![Java](https://img.shields.io/badge/JAVA-gray?logo=stackedit&logoColor=black)
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://img.shields.io/badge/JAVA-gray?logo=stackedit&logoColor=black" alt="Java">
+  </a>
 - 🌐 &nbsp;
-  ![Hibernate](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-gray?logo=springboot&logoColor=white)
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL">
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/badge/Spring_Boot-gray?logo=springboot&logoColor=white" alt="Spring Boot">
+  </a>
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL">
+  </a>
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
+  </a>
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-gray?logo=intellijidea&logoColor=white)
-  ![HeidiSql](https://img.shields.io/badge/HeidiSql-gray?logo=mysql&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-gray?logo=postman&logoColor=white)
-  ![Xampp](https://img.shields.io/badge/Xampp-gray?logo=xampp&logoColor=white)
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-gray?logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+  </a>
+  <a href="https://www.heidisql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HeidiSql-gray?logo=mysql&logoColor=white" alt="HeidiSql">
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-gray?logo=postman&logoColor=white" alt="Postman">
+  </a>
+  <a href="https://www.apachefriends.org/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Xampp-gray?logo=xampp&logoColor=white" alt="Xampp">
+  </a>
 
 <br/>
 
