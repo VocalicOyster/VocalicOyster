@@ -11,7 +11,9 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
+  </a>
   ![Java](https://img.shields.io/badge/JAVA-gray?logo=stackedit&logoColor=black)
 - 🌐 &nbsp;
   ![Hibernate](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
