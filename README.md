@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/JAVA-gray?logo=stackedit&logoColor=black" alt="Java">
   </a>
 - 🌐 &nbsp;
-  <a href="https://hibernate.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL">
+   <a href="https://hibernate.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate" alt="Hibernate">
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img src="https://img.shields.io/badge/Spring_Boot-gray?logo=springboot&logoColor=white" alt="Spring Boot">
