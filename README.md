@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
-- 🎓 &nbsp; Studying Programming at Develhope (Sicily)
+- 🎓 &nbsp; Java Backend Developer (Sicily)
 - 🌱 &nbsp; Learning all about programming and technologies
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
